@@ -9,4 +9,6 @@ public class TestMastermindDriver {
     public TestMastermindDriver(){
         //This is a test
     }
+
+    //The test worked!
 }
