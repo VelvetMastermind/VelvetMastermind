@@ -4,4 +4,9 @@
 public class TestMastermindDriver {
 
         //This is but a test
+
+        //This is testing whether or not pushing/getting latest works
+    public TestMastermindDriver(){
+        //This is a test
+    }
 }
