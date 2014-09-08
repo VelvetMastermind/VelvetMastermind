@@ -10,6 +10,8 @@ public class TestMastermindDriver {
         //This is a test
     }
 
+    //Tested by JamesEdwards 9/7/14 3:06
+    //Tested by Joe
     //The test worked!
 
     //This is a test against  a current version.
