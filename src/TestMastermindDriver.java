@@ -1,19 +1,11 @@
 /**
  * Created by AndyBudziszek on 9/7/2014.
+ * 9/9/14 10:35am APB - Removed all initial VCS testing comments.
  */
 public class TestMastermindDriver {
 
-        //This is but a test
-
-        //This is testing whether or not pushing/getting latest works
     public TestMastermindDriver(){
-        //This is a test
+
     }
 
-    //Tested by JamesEdwards 9/7/14 3:06
-    //Tested by Joe
-    //The test worked!
-    //Tested by Tommy 9/8/14 6:30PM
-
-    //This is a test against  a current version.
 }
