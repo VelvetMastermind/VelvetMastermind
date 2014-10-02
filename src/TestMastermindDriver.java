@@ -5,7 +5,7 @@
 public class TestMastermindDriver {
 
     public TestMastermindDriver(){
-
+        System.out.println("Hello!");
     }
 
 }
